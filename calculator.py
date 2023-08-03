@@ -6,8 +6,11 @@ def add(a, b);
 def subtract(a, b);
     return a-b
 
+
+
+git add
 def multiply(a, b);
     return a*b    
 
-def divide(a, b):  
+def divide_premium(a, b):  
     return a/b
